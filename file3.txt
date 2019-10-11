@@ -1,5 +1,9 @@
 file3
 
+<<<<<<< HEAD
 xxx
 
 yyy
+=======
+
+>>>>>>> a51020db8ec25b70d6da038d47cd4d41e1b1d412
