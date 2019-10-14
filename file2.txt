@@ -1,5 +1,0 @@
-xxx
-file2
-1234567
-
-helloworld
