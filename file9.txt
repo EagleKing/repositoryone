@@ -1,4 +1,9 @@
 ttt
 aaaa
+<<<<<<< HEAD
 bbb
 cccc
+=======
+bbbb
+cccc
+>>>>>>> c1deedbb72486be29a8c2fa1fb58b8db6c9623bc
