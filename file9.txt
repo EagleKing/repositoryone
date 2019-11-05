@@ -6,6 +6,7 @@ cccc
 =======
 bbbb
 cccc
+<<<<<<< Updated upstream
 >>>>>>> c1deedbb72486be29a8c2fa1fb58b8db6c9623bc
 
 
@@ -13,3 +14,7 @@ cccc
 
 aaa
 bbb
+=======
+
+xxx
+>>>>>>> Stashed changes
