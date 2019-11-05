@@ -15,4 +15,8 @@ bbbb
 
 xxxx
 
+<<<<<<< Updated upstream
 llllll
+=======
+aaa
+>>>>>>> Stashed changes
