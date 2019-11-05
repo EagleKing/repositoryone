@@ -13,16 +13,4 @@ aaa
 dddd 
 bbbb
 
-xxxx
 
-<<<<<<< Updated upstream
-llllll
-=======
-<<<<<<< HEAD
-
-=======
-aaa
->>>>>>> Stashed changes
-
-dddeeeaaa
->>>>>>> d9b1d85390b154ee36d4415001ae4adfcf6baba7
