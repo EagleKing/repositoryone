@@ -7,11 +7,6 @@ dazhuzai
 加刀剑
 
 
-filefilefile
-<<<<<<< HEAD
 
-=======
-斗破xxxxx
->>>>>>> 1cfca57cdae6ce52a446959f7061eccde0a82027
 
 
