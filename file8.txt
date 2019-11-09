@@ -4,21 +4,6 @@ xxx
 0000
    xxx
 
-
-
-if (a < 9) {
-   xxx;
+if (x < 0) {
+    lll;
 }
-
-
-
-if (a < 9) {
-   xxx;
-}
-
-
-
-if(a < 9){
-   xxx;
-}
-
