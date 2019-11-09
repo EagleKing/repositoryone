@@ -2,7 +2,7 @@ xxx
 <<<<<<< HEAD
 
 0000
-   xxx
+ xxx
 
 if (x < 0) {
     lll;
