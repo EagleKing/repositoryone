@@ -4,7 +4,7 @@ xxx
  xxx
 
 
-if (a < 9) 
+if(a < 9) 
 {
    xxx;
 }
