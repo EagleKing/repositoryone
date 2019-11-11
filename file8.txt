@@ -2,8 +2,10 @@ xxx
 <<<<<<< HEAD
 
 0000
+
+lxxlahdfdfjdskfjd
  xxx
 
 if (x < 0) {
-    lll;
+    laaaal;
 }
