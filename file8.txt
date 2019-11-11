@@ -2,12 +2,10 @@ xxx
 <<<<<<< HEAD
 
 0000
-ttttt
-‘’jajfjdkfjsdk
-
+ddddddd
 lxxlahdfdfjdskfjd
  xxx
 
 if (x < 0) {
-    laaaal;
+    laaaxxxxxal;
 }
