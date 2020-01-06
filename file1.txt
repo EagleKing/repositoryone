@@ -15,7 +15,11 @@ master
 
 
 second line
+<<<<<<< HEAD
 123
+=======
+aaaaa
+>>>>>>> b424c165d20be15e815ee6536b04e09a39f98ad6
 third line
 bbbbbbbbbbbbbbbbbb
 abc
