@@ -15,6 +15,7 @@ master
 aaaaaaaaaaa
 
 second line
+111
 <<<<<<< HEAD
 123
 =======
